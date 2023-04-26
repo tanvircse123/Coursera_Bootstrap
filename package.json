@@ -1,0 +1,15 @@
+{
+  "name": "coursera-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "lite":"lite-server"
+  },
+  "author": "Tanvir Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
